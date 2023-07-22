@@ -1,3 +1,7 @@
+#services{
+    padding-top: 2rem;
+    height: auto;
+}
 .services__container {
     padding-top: 2rem;
     display: grid;

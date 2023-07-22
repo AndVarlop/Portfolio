@@ -4,7 +4,7 @@ import Nav from './components/nav/Nav'
 import About from './components/about/About'
 import Experience from './components/experience/Experience'
 import Footer from './components/footer/Footer'
-import Portafolio from './components/portafolio/Portafolio'
+import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Services from './components/services/Services'
@@ -17,7 +17,7 @@ const App = () => {
       <About />
       <Experience />
       <Services />
-      <Portafolio />
+      <Portfolio />
       <Testimonials />
       <Contact />
       <Footer />
