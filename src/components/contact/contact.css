@@ -78,11 +78,8 @@ button {
  /* ============== SMALL DEVICES =============== */
  
  @media screen and (max-width:670px) {
-    .container.contact__container{
-        width: var(--container-width-sm);
-    }
     button{
-        left: 38%;
+        left: 28%;
     }
     
  }
