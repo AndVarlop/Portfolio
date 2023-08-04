@@ -1,10 +1,18 @@
-import React from 'react'
-import './contact.css'
-import {MdOutlineEmail} from 'react-icons/md'
-import {RiMessengerLine} from 'react-icons/ri'
-import {BsWhatsapp} from 'react-icons/bs'
+import React, { useRef as UseRef } from 'react';
+import './contact.css';
+import {MdOutlineEmail} from 'react-icons/md';
+import {RiMessengerLine} from 'react-icons/ri';
+import {BsWhatsapp} from 'react-icons/bs';
+import emailjs from 'emailjs-com';
 
 const contact = () => {
+  const form = UseRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+    emailjs.sendForm('service_xvvllzi','template_xgc2pzq', form.current, 'xHMjLPCD6KlMqp82s')
+    e.target.reset();
+  };
   return (
     <section id='contact'>
       <h3 className='text-light'>Get In Touch</h3>
@@ -31,7 +39,7 @@ const contact = () => {
           </article>
         </div>
         {/* END OF CONTACT OPCIONS*/}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required />
           <input type="text" name="email" placeholder='Your Email' required/>
           <textarea name="message" cols="30" rows="8" placeholder='Your Message' required></textarea>
