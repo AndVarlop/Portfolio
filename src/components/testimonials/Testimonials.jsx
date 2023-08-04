@@ -10,7 +10,6 @@ import AVTR7 from '../../assets/AVATAR5.jpg'
 import AVTR8 from '../../assets/AVATAR6.jpg'
 import AVTR9 from '../../assets/AVATAR7.jpg'
 
-import { useRef, useState } from 'react';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
