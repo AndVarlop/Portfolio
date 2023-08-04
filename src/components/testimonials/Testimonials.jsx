@@ -24,47 +24,47 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Juan Sebastian Gallon',
-    text: 'Andrés es un verdadero líder de equipo. Cuando trabajamos juntos, siempre se asegura de que todos estemos en la misma página y distribuye las responsabilidades de manera justa. Es un compañero confiable.'
+    text: "Andrés is a true team leader. When we work together, he always makes sure we're all on the same page and distributes responsibilities fairly. He is a reliable partner."
   },
   {
     avatar: AVTR2,
     name: 'Lina Maria Arnaches',
-    text: 'Andrés es un trabajador excepcional. Puede enfrentar tareas difíciles en solitario y siempre logra resultados asombrosos. Es impresionante su capacidad para resolver problemas de manera autónoma.'
+    text: "Andrés is an exceptional worker. He can tackle difficult tasks alone and always achieves amazing results. His ability to solve problems independently is impressive."
   },
   {
     avatar: AVTR3,
     name: 'Victor Manuel Lozano',
-    text: 'Lo que más admiro de Andrés es su iniciativa. Siempre está buscando oportunidades para mejorar los procesos y aumentar la eficiencia, ya sea trabajando solo o colaborando con otros. Es un gran ejemplo a seguir.'
+    text: "What I admire most about Andrés is his initiative. He is always looking for opportunities to improve processes and increase efficiency, whether working alone or collaborating with others. He is a great example to follow."
   },
   {
     avatar: AVTR4,
     name: 'Miguel Negrete Nuñez',
-    text: 'Andrés es un excelente mentor y compañero. Cuando trabajamos juntos en un proyecto, siempre está dispuesto a compartir su conocimiento y brindar orientación a aquellos que necesitan ayuda. Es un verdadero activo para el crecimiento profesional del equipo.'
+    text: "Andrés is an excellent mentor and partner. When we work together on a project, he is always willing to share his knowledge and provide guidance to those who need help. He is a true asset to the professional growth of the team."
   },
   {
     avatar: AVTR5,
     name: 'Luis de las Salas',
-    text: 'Andrés es un comunicador excepcional. Tiene la habilidad de explicar conceptos complejos de manera clara y concisa, lo que facilita la colaboración y mejora la eficiencia del equipo, y tambien trabaja muy duro cuando le toca solo.'
+    text: "Andrés is an exceptional communicator. He has the ability to explain complex concepts clearly and concisely, which facilitates collaboration and improves team efficiency, and he also works very hard when he's on his own."
   },
   {
     avatar: AVTR6,
     name: 'Geraldin Parody',
-    text: 'Andrés tiene una autoconfianza impresionante que le permite enfrentar desafíos de manera independiente. Pero lo que más valoro de él es que también sabe cómo escuchar y trabajar en equipo, lo que lo convierte en un colaborador excepcional.'
+    text: "Andrés has an impressive self-confidence that allows him to face challenges independently. But what I value most about him is that he also knows how to listen and work as a team, which makes him an exceptional collaborator."
   },
   {
     avatar: AVTR7,
     name: 'Yudys Alexandra Lopez',
-    text: 'Lo que más me impresiona de Andrés es su capacidad para mantener la calma incluso en las situaciones más estresantes. Su actitud tranquila y positiva es contagiosa, y siempre encontramos soluciones cuando él está involucrado.'
+    text: "What impresses me most about Andrés is his ability to remain calm even in the most stressful situations. His calm and positive attitude is contagious, and we always find solutions when he is involved."
   },
   {
     avatar: AVTR8,
     name: 'Bryan Alexander Varela',
-    text: 'Andrés es una persona sumamente confiable. Cuando trabaja en un proyecto, siempre puedo estar seguro de que cumplirá con su parte y entregará resultados de alta calidad. Su ética de trabajo es ejemplar.'
+    text: "Andrés is an extremely reliable person. When working on a project, I can always be sure that he will do his part and deliver high-quality results. His work ethic is exemplary."
   },
   {
     avatar: AVTR9,
     name: 'Alexander Henry Varela',
-    text: 'Andrés es un creativo excepcional. Su mente siempre está generando nuevas ideas y enfoques innovadores para resolver problemas. Es genial contar con alguien como él en el equipo para encontrar soluciones frescas.'
+    text: "Andrés is an exceptional creative. His mind is always coming up with new ideas and innovative approaches to solving problems. It's great to have someone like him on the team to come up with fresh solutions."
   }
 ]
 
