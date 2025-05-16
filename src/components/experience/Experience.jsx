@@ -68,8 +68,9 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Informatica y Tributos</h4>
-                <h6>Tecnologo de Soporte Operativo</h6>
+                <h2>Informatica y Tributos</h2>
+                <h4>Tecnologo de Soporte Operativo</h4>
+                <h6>Julio 2024 - Actualidad</h6>
                 <small className='text-light'>- Brindo soporte técnico operativo a los procesos internos de la empresa, asegurando el correcto funcionamiento de sistemas y herramientas utilizadas por los equipos administrativos y financieros.
                     <br />- Gestiono incidencias técnicas, realizo mantenimiento preventivo y correctivo de equipos y participo en la mejora continua de procesos tecnológicos.
                     <br />- Apoyo en la implementación y monitoreo de soluciones informáticas orientadas a optimizar la productividad del área Treasury y otras áreas operativas.
