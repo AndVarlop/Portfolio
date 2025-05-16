@@ -71,9 +71,9 @@ const Experience = () => {
                 <h4>Informatica y Tributos</h4>
                 <h6>Tecnologo de Soporte Operativo</h6>
                 <small className='text-light'>- Brindo soporte técnico operativo a los procesos internos de la empresa, asegurando el correcto funcionamiento de sistemas y herramientas utilizadas por los equipos administrativos y financieros.
-                    <br />Gestiono incidencias técnicas, realizo mantenimiento preventivo y correctivo de equipos y participo en la mejora continua de procesos tecnológicos.
-                    <br />Apoyo en la implementación y monitoreo de soluciones informáticas orientadas a optimizar la productividad del área Treasury y otras áreas operativas.
-                    <br />Colaboro en la administración de enlaces a servidores de clientes, garantizando seguridad, eficiencia y control de acceso.</small>
+                    <br />- Gestiono incidencias técnicas, realizo mantenimiento preventivo y correctivo de equipos y participo en la mejora continua de procesos tecnológicos.
+                    <br />- Apoyo en la implementación y monitoreo de soluciones informáticas orientadas a optimizar la productividad del área Treasury y otras áreas operativas.
+                    <br />- Colaboro en la administración de enlaces a servidores de clientes, garantizando seguridad, eficiencia y control de acceso.</small>
               </div>
             </article>
           </div>
