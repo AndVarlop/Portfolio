@@ -1,7 +1,6 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/AVATAR0.jpg'
-import AVTR2 from '../../assets/AVATAR01.jpg'
 import AVTR3 from '../../assets/AVATAR1.jpg'
 import AVTR4 from '../../assets/AVATAR2.jpg'
 import AVTR5 from '../../assets/AVATAR3.jpg'
@@ -22,19 +21,14 @@ import { EffectCards, Autoplay } from 'swiper/modules';
 
 const data = [
   {
-    avatar: AVTR1,
-    name: 'Juan Sebastian Gallon',
-    text: "Andrés is a true team leader. When we work together, he always makes sure we're all on the same page and distributes responsibilities fairly. He is a reliable partner."
-  },
-  {
-    avatar: AVTR2,
-    name: 'Lina Maria Arnaches',
-    text: "Andrés is an exceptional worker. He can tackle difficult tasks alone and always achieves amazing results. His ability to solve problems independently is impressive."
-  },
-  {
     avatar: AVTR3,
     name: 'Victor Manuel Lozano',
     text: "What I admire most about Andrés is his initiative. He is always looking for opportunities to improve processes and increase efficiency, whether working alone or collaborating with others. He is a great example to follow."
+  },
+  {
+    avatar: AVTR1,
+    name: 'Juan Sebastian Gallon',
+    text: "Andrés is a true team leader. When we work together, he always makes sure we're all on the same page and distributes responsibilities fairly. He is a reliable partner."
   },
   {
     avatar: AVTR4,
