@@ -24,12 +24,12 @@ const data = [
     avatar: AVTR3,
     name: 'Victor Manuel Lozano',
     text: "What I admire most about Andrés is his initiative. He is always looking for opportunities to improve processes and increase efficiency, whether working alone or collaborating with others. He is a great example to follow."
-  },
+  },/*
   {
     avatar: AVTR1,
     name: 'Juan Sebastian Gallon',
     text: "Andrés is a true team leader. When we work together, he always makes sure we're all on the same page and distributes responsibilities fairly. He is a reliable partner."
-  },
+  },*/
   {
     avatar: AVTR4,
     name: 'Miguel Negrete Nuñez',
